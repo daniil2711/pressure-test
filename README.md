@@ -51,7 +51,7 @@ else in the skill flows from forcing an answer that survives that test.
 **Claude Code:**
 
 ```bash
-git clone https://github.com/<you>/pressure-test ~/.claude/skills/pressure-test
+git clone https://github.com/daniil2711/pressure-test ~/.claude/skills/pressure-test
 ```
 
 Then in any session: *"pressure-test this plan"*, *"be brutal about this contract"*,
